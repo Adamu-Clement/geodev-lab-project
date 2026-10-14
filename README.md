@@ -2,3 +2,12 @@
 Which wards in Wamako LGA, Sokoto State are 5km from a health Facility?
 Built over twelve months with GeoDev Lab Adrica, Cohort one.
 See [project-brief.md](project-brief.md) for the full brief.
+
+## Progress
+
+- [ ] Week 1: project brief with a source link for every dataset
+- [ ] Week 2: data downloaded, opened, and described
+- [ ] Week 3: reprojected, clipped, and quality check
+- [x] Week 4: first spatial analysis
+- [ ] Week 5: `hello.py` runs
+- [ ] Week 6: `check.py` runs 
