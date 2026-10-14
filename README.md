@@ -5,9 +5,9 @@ See [project-brief.md](project-brief.md) for the full brief.
 
 ## Progress
 
-- [ ] Week 1: project brief with a source link for every dataset
-- [ ] Week 2: data downloaded, opened, and described
-- [ ] Week 3: reprojected, clipped, and quality check
-- [x] Week 4: first spatial analysis
-- [ ] Week 5: `hello.py` runs
-- [ ] Week 6: `check.py` runs 
+- [x] Week 1: project brief with a source link for every dataset
+- [x] Week 2: data downloaded, opened, and described
+- [x] Week 3: reprojected, clipped, and quality check
+- [ ] Week 4: first spatial analysis
+- [x] Week 5: `hello.py` runs
+- [x] Week 6: `check.py` runs 
