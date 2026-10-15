@@ -37,4 +37,4 @@ flood-mapping-mitigation/
 - [x] Week 6: `check.py` runs 
 
 # Month 2: Development Environment and Early Python
-  - [ ] Week 5: Setup Python, VS Code, and the Terminal. `hello.py` runs
+  -  Week 5: Setup Python, VS Code, and the Terminal. `hello.py` runs
