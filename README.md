@@ -35,3 +35,5 @@ flood-mapping-mitigation/
 - [ ] Week 4: first spatial analysis
 - [x] Week 5: `hello.py` runs
 - [x] Week 6: `check.py` runs 
+
+# Month 2: Development Environment and Early Python
