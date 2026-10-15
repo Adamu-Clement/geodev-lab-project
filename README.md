@@ -38,3 +38,4 @@ flood-mapping-mitigation/
 
 # Month 2: Development Environment and Early Python
   -  Week 5: Setup Python, VS Code, and the Terminal. `hello.py` runs
+<img src="screenshots/week5.png" alt="Week 5: hello.py running in VS Code" width="600">
