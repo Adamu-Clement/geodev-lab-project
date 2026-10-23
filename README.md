@@ -34,7 +34,7 @@ flood-mapping-mitigation/
 - [x] Week 3: reprojected, clipped, and quality check
 - [ ] Week 4: first spatial analysis
 - [x] Week 5: `hello.py` runs
-- [x] Week 6: `check.py` runs 
+- [x] Week 6: `main.py` runs 
 
 # Month 2: Development Environment and Early Python
   -  Week 5: Setup Python, VS Code, and the Terminal. `hello.py` runs
