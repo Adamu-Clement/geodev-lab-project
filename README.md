@@ -42,4 +42,5 @@ flood-mapping-mitigation/
 
   -  Week 6: Added 2 packages through UV `main.py` runs. 
 <img src="screenshots/Week6.png" alt="Week 6: main.py running uv in VS Code" width="600">
-  -  Week 7: Read `state.csv` and the first five states using `geopandas`.
+  -  Week 7: Read `state.csv` and the first five states using `geopandas`.****
+ 
