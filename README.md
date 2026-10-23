@@ -41,4 +41,4 @@ flood-mapping-mitigation/
 <img src="screenshots/week5.PNG" alt="Week 5: hello.py running in VS Code" width="600">
 
   -  Week 6: Added 2 packages through UV `main.py` runs
-![Week 6: main.py running uv in VS Code](screenshots/week6.png)
+<img src="screenshots/week6.png" alt="Week 6: main.py running uv in VS Code" width="600">
