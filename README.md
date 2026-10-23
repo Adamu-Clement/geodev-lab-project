@@ -40,6 +40,6 @@ flood-mapping-mitigation/
   -  Week 5: Setup Python, VS Code, and the Terminal. `hello.py` runs
 <img src="screenshots/week5.PNG" alt="Week 5: hello.py running in VS Code" width="600">
 
-  -  Week 6: Added 2 packages through UV `main.py` runs
+  -  Week 6: Added 2 packages through UV `main.py` runs. 
 <img src="screenshots/Week6.png" alt="Week 6: main.py running uv in VS Code" width="600">
   -  Week 7: Read `state.csv` and the first five states using `geopandas`.
